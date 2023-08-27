@@ -122,7 +122,7 @@ body{
 
 .hero {
     height: 90vh;
-    background-image: url(gambar/header.jpg);
+    background-image: url(GAMBAR/header.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center ;
